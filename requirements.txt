@@ -9,4 +9,5 @@ pinecone[grpc]
 langchain-pinecone
 python-dotenv
 langchain_openai
+langchain-huggingface
 -e .
