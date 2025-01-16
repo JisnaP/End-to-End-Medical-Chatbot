@@ -22,7 +22,7 @@ python store_index.py
 ```
 # Finally run the following command
 ```bash
-python app.py
+python App.py
 ```
 
 
